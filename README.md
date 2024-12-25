@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Digvijay Pawar</h1>
 <h3 align="center">A Final Year B.Tech Student...</h3>
 
-- 🔭 I’m currently working on **Vehicle Rental System**
+- 🔭 I’m currently working on **Uber Clone**
 
 - 🌱 I’m currently learning **Node.js**
 
