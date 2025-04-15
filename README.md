@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Digvijay Pawar</h1>
 <h3 align="center">A Final Year B.Tech Student...</h3>
 
-- 🔭 I’m currently working on **Uber Clone**
+- 🔭 I’m currently working on **Event based media sharing app**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **NestJs + MariaDB + ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Digvijay-pawar](https://github.com/Digvijay-pawar)
 
