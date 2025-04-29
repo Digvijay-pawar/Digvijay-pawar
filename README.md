@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Event based media sharing app**
 
-- 🌱 I’m currently learning **NestJs + MariaDB + ReactJS**
+- 🌱 I’m currently learning **Node.js + NestJs + MariaDB + ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Digvijay-pawar](https://github.com/Digvijay-pawar)
 
