@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Digvijay Pawar</h1>
-<h3 align="center">A Final Year B.Tech Student...</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Event based media sharing app**
 
